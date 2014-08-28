@@ -1,0 +1,10 @@
+*.orig
+*.exe
+*.dll
+*.userprefs
+ClientPlugin/bin/*
+ClientPlugin/obj/*
+ServerPlugin/bin/*
+ServerPlugin/obj/*
+*.suo
+*.csproj.user
